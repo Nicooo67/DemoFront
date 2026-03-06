@@ -17,4 +17,5 @@ describe('test liste des notes', () => {
       cy.get('p').should('be.visible');
     });
   });
+
 });
